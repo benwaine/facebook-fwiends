@@ -1,0 +1,14 @@
+{
+    "require": {
+        "symfony/console": "2.3.*@dev",
+        "bwaine/facebook-test-user-client": "dev-master"
+    },
+
+    "config": {
+        "bin-dir": "bin/"
+    },
+    
+    "autoload": {
+        "psr-0": {"Fwiends": "lib/"}
+    }
+}
